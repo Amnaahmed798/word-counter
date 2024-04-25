@@ -1,1 +1,1 @@
-#a simple word counter with typescript and node js
+a simple word counter with typescript and node js
